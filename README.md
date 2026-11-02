@@ -89,8 +89,12 @@ To demonstrate low-level mastery of language model internals, a custom architect
       "total_price": 4275.0
     }
   ],
+  "total_order_value": 7125.0,
+  "delivery_notes": "Από τον Αγροτικό Συνεταιρισμό Θεσσαλίας, θέλουμε 100 τσουβάλια νιτρική αμμωνία και 50 κιλά σπόρο για καλαμπόκι. Στείλτε τα Λάρισα."
 }
+
 ```
+
 ---
 
 ### Scenario B: Unknown Client & Out-of-Catalog Item (Safe Failure Mode)
