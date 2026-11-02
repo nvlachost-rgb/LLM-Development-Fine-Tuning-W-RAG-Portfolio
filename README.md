@@ -132,7 +132,6 @@ To demonstrate low-level mastery of language model internals, a custom architect
 ## 📂 Repository Structure
 
 * **`RAG_Dataset.ipynb`:** Deterministic Python generator for the master ERP database of clients and products.
-* **`erp_master_database.json`:** Master catalog containing client tax records, SKUs, barcodes, and unit prices.
 * **`RAG_Creation.ipynb`:** Vector embedding pipeline that builds and saves the local FAISS index.
 * **`Output Format Fine Tuning Dataset.ipynb`:** Synthetic instruction dataset generator via the Gemini API.
 * **`Qwen Fine Tuning.ipynb`:** QLoRA fine-tuning script with Unsloth and GGUF quantization export.
